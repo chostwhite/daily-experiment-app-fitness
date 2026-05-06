@@ -43,7 +43,7 @@ const defaultState = () => ({
 });
 
 const QUOTES = [
-  "Body recomposition rewards the patient. Show up, don't burn out.",
+  "Local dev is way faster than StackBlitz, period.",
   "Skinny fat isn't fixed with starvation — it's fixed with protein and consistency.",
   'Muscle is earned in months, not minutes. Protect it on every plate.',
   "Discipline is doing the boring thing on the day you don't feel like it.",
